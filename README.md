@@ -1,4 +1,4 @@
 # Your project name
-Your given and family name.
+Andrew Thayer
 
-A one-sentence description of your project.
+Mockup of project for SQC.
