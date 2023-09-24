@@ -1,7 +1,7 @@
 An Overview of Simple Mechanics
 ===============================
-This project will introduce a user to various facts and information
-regarding simple mechanics. 
+This project will parse through a book on practical mechanics and display the glossary of common
+words used and their definitions.
 
 Data Source:
 ------------
@@ -10,9 +10,9 @@ Data Source:
 Items of Interest:
 ------------------
 
-- Tools
-- Recipes
-- Material Properties
+-Glossary of words
+-Word
+-Definition of work
 
 Proposed Layout:
 ----------------
