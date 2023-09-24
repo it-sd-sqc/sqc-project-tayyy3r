@@ -10,9 +10,9 @@ Data Source:
 Items of Interest:
 ------------------
 
--Glossary of words
--Word
--Definition of work
+- Glossary of words
+- Word
+- Definition of work
 
 Proposed Layout:
 ----------------
