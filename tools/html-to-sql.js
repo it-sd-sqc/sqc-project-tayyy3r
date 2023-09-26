@@ -19,7 +19,14 @@ CREATE TABLE words (
   id SERIAL PRIMARY KEY,
   word TEXT NOT NULL,
   definition TEXT NOT NULL
-);
+);`
 
-INSERT INTO chapters (title, body) VALUES;
-`
+const insertWordsSql = `INSERT INTO words (word, definition) VALUES`
+
+const gobanConfig = {
+  size: 19,
+  theme: 'classic',
+  coordSystem: 'A1',
+  noMargin: false,
+  hideMargin: false
+}
