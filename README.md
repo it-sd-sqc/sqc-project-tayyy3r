@@ -1,4 +1,4 @@
-# Your project name
+# Practical Mechanical Definitions
 Andrew Thayer
 
 Mockup of project for SQC.
